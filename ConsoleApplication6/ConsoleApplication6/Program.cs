@@ -9,8 +9,8 @@ namespace ConsoleApplication6
     class Program
     {
         static void Main(string[] args)
-        {
-            Console.WriteLine(d);
+        {}
+            Console.WriteLinde(d);
         }
     }
 }
