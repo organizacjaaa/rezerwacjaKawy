@@ -10,7 +10,7 @@ namespace ConsoleApplication6
     {
         static void Main(string[] args)
         {}
-            Console.WriteLinde(d);
+            Console.WriteLinde(dd);
         }
     }
 }
